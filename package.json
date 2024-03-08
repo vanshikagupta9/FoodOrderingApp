@@ -1,0 +1,25 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "description": "This is a food ordering application!",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshikagupta9/FoodOrderingApp.git"
+  },
+  "keywords": [],
+  "author": "Vanshika Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanshikagupta9/FoodOrderingApp/issues"
+  },
+  "homepage": "https://github.com/vanshikagupta9/FoodOrderingApp#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
