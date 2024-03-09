@@ -7,4 +7,5 @@ console.log(heading)//object
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(heading);
 
+
 // React.createElement => ReactElement-JS Object => HTMLElement(render)
